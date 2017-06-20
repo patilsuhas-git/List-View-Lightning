@@ -2,7 +2,7 @@
 ReferencedPackages
 salesforce.schema
 src/applications
-src/applications
+src/classes/*.xml
 src/communities
 src/escalationRules
 src/letterhead
