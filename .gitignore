@@ -22,6 +22,7 @@ src/flows
 src/objectTranslations
 src/remoteSiteSettings
 src/siteDotComSites
+src/aura/helloWorld/*.xml
 src/assignmentRules
 src/customApplicationComponents
 src/groups
